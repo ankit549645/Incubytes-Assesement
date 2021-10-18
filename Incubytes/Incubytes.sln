@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Incubytes", "Incubytes\Incubytes.dtproj", "{169C9033-01DB-43D3-BF4E-AD58A2E4BB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169C9033-01DB-43D3-BF4E-AD58A2E4BB9C}.Development|Default.ActiveCfg = Development
+		{169C9033-01DB-43D3-BF4E-AD58A2E4BB9C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB527107-7527-474E-9882-AC6AE88658E7}
+	EndGlobalSection
+EndGlobal
